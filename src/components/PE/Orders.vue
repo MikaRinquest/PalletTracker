@@ -68,10 +68,6 @@ td {
   align-items: center;
 }
 
-.area {
-  padding-bottom: 1.5rem;
-}
-
 .table {
   width: 80%;
 }

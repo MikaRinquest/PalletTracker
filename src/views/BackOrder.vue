@@ -4,7 +4,7 @@
   </div>
 </template>
 <script>
-import Orders from "@/components/PE/Orders.vue";
+import Orders from "@/components/George/Orders.vue";
 export default {
   components: {
     Orders,

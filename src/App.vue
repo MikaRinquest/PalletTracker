@@ -16,6 +16,10 @@ export default {};
   scroll-behavior: smooth;
 }
 
+h1 {
+  padding-bottom: 1.5rem;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
