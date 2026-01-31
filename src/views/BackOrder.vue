@@ -1,5 +1,14 @@
 <template>
   <div class="orders">
-    <h1>This is an about page</h1>
+    <Orders />
   </div>
 </template>
+<script>
+import Orders from "@/components/PE/Orders.vue";
+export default {
+  components: {
+    Orders,
+  },
+};
+</script>
+<style scoped></style>

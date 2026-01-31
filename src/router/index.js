@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from "vue-router";
 import Home from "../views/Home.vue";
 import BackOrder from "../views/BackOrder.vue";
-import Tracker from "../views/BackOrder.vue";
-import History from "../views/BackOrder.vue";
+import Tracker from "../views/Tracker.vue";
+import History from "../views/History.vue";
 
 const routes = [
   {

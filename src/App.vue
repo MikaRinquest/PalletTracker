@@ -1,14 +1,9 @@
 <template>
-  <h1>Kleurspace</h1>
-
   <router-view />
 </template>
 
 <script>
-
-export default {
-  
-};
+export default {};
 </script>
 
 <style>
@@ -29,5 +24,10 @@ export default {
   color: #2c3e50;
 }
 
-
+.button {
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding: 0.7rem;
+}
 </style>

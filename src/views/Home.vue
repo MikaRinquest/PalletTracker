@@ -1,4 +1,5 @@
 <template>
+  <h1>Kleurspace</h1>
   <div class="area-holder">
     <div class="location" v-for="location in locations" :key="location.id">
       <h2 class="heading">{{ location.name }}</h2>
