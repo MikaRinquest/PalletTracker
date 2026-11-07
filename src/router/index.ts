@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/Home.vue'
-import GeorgeView from '../views//George/George.vue'
-import PEView from '../views/PE/PE.vue'
-import FrancisView from '../views/St Francis/Francis.vue'
+import GeorgeView from '../views/George.vue'
+import PEView from '../views/PE.vue'
+import FrancisView from '../views/Francis.vue'
 
 const routes = [
   { path: '/', component: HomeView },
